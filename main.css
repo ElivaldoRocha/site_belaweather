@@ -216,3 +216,27 @@ section.preciptation-day img {
     justify-content: center;
 }
 
+.articles img {
+    max-width: 500px;
+    width: 100%;
+}
+
+.rotating-globe, #jornal {
+    max-width: 500px;
+    width: 100%;
+}
+
+.logo-belaweather {
+    max-width: 400px;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .articles article {
+        width: 100%;
+    }
+}
+
+
+
+
