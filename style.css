@@ -707,13 +707,12 @@ footer {
     margin: 2rem;
   }
   .section-4 img {
-    height: 10rem;
+    height: 30rem;
     margin-left: 0rem;
   }
 
   #classes-SPI {
-    width: 14rem !important;
-    height: 5rem !important
+    height: 15rem !important;
   }
 }
 
