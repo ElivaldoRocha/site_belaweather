@@ -522,7 +522,7 @@ footer {
     margin: 2rem;
   }
   .section-3 img {
-    height: 20rem;
+    height: 17rem;
     margin-top: 1rem;
     margin-left: 0rem;
   }
@@ -672,6 +672,27 @@ footer {
     font-weight: 700;
     font-style: oblique;
     color: #4267b3;
+  }
+}
+
+/* Estilo para telas até 1080px */
+@media screen and (min-width: 1080px) {
+  .section-4 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem;
+  }
+  .section-4 img {
+    height: 29rem;
+    margin-left: 0rem;
+  }
+
+  #classes-SPI {
+    width: 39rem !important;
+    height: 17rem !important
   }
 }
 
@@ -929,7 +950,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1080px) {
   .container-slider {
     display: flex;
     width: 100%;
