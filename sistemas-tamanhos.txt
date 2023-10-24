@@ -1,0 +1,35 @@
+/* Sistemas de Tamanhos - https://typescale.com/
+
+Fontes - Minor Third - 1.200 - Em PX
+4.4 - 5.4 - 6.4 - 7.7 - 9.2 - 11.1 - 13.3 - 16 - 19.2 - 23
+27.6 - 33.2 - 39.8 - 47.8 - 57.3 - 68.8 - 82.6 
+
+Espacamentos - Major Third - 1.250 - Em PX
+2.1 - 2.7 - 3.3 - 4.2 - 5.2 - 6.5 - 8.2 - 10.2 - 12.8 - 16
+20 - 25 - 31.2 - 39 - 48.8 - 61 - 76.3 - 95.4 - 119.2 
+
+*/
+
+<div class="container-images-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_1.jpeg" alt="SPI-01" class="slider-2 on2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_2.jpeg" alt="SPI-02" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_3.jpeg" alt="SPI-03" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_4.jpeg" alt="SPI-04" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_5.jpeg" alt="SPI-05" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_6.jpeg" alt="SPI-06" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_7.jpeg" alt="SPI-07" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_8.jpeg" alt="SPI-07" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_9.jpeg" alt="SPI-08" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_10.jpeg" alt="SPI-09" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_11.jpeg" alt="SPI-10" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2022_12.jpeg" alt="SPI-02" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_1.jpeg" alt="SPI-03" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_2.jpeg" alt="SPI-04" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_3.jpeg" alt="SPI-05" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_4.jpeg" alt="SPI-06" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_5.jpeg" alt="SPI-07" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_6.jpeg" alt="SPI-08" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_7.jpeg" alt="SPI-09" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_8.jpeg" alt="SPI-10" class="slider-2">
+          <img src="./SPI_imagens/SPI_MSWEP_2023_9.jpeg" alt="SPI-20" class="slider-2">
+        </div>

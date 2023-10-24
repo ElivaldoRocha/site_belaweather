@@ -1,0 +1,27 @@
+…or create a new repository on the command line
+echo "# site_belaweather" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ElivaldoRocha/site_belaweather.git
+git push -u origin main
+
+or push an existing repository from the command line
+git remote add origin https://github.com/ElivaldoRocha/site_belaweather.git
+git branch -M main
+git push -u origin main
+
+resultado das instruções acima:
+
+Enumerating objects: 28, done.
+Counting objects: 100% (28/28), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (28/28), done.
+Writing objects: 100% (28/28), 76.92 MiB | 6.60 MiB/s, done.
+Total 28 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/ElivaldoRocha/site_belaweather.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS G:\Meu Drive\EBAC\Desenvolvedor_Full_Stack_Python _v2\Mod_5_Projeto_01\Projeto_01>
