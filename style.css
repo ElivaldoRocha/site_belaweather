@@ -336,7 +336,7 @@ footer {
   margin: 2rem;
   margin-bottom: 0rem;
   & img {
-    height: 30rem;
+    height: 50rem;
   }
 
   & .Resumo {
@@ -495,7 +495,8 @@ footer {
   margin: 2rem;
   margin-bottom: 0rem;
   & img {
-    height: 30rem;
+    height: 50rem;
+    margin-left: 2rem;
   }
 
   & .Resumo {
@@ -655,7 +656,7 @@ footer {
   margin: 2rem;
   margin-bottom: 0rem;
   & img {
-    height: 29rem;
+    height: 48rem;
   }
   & #classes-SPI {
     width: 39rem;
@@ -675,8 +676,8 @@ footer {
   }
 }
 
-/* Estilo para telas até 1080px */
-@media screen and (min-width: 1080px) {
+/* Estilo para apartir 1081px */
+@media screen and (min-width: 1081px) {
   .section-4 {
     display: flex;
     flex-direction: row;
@@ -686,13 +687,13 @@ footer {
     margin: 2rem;
   }
   .section-4 img {
-    height: 29rem;
-    margin-left: 0rem;
+    height: 48rem;
+    margin-left: 2rem;
   }
 
   #classes-SPI {
-    width: 39rem !important;
-    height: 17rem !important
+    width: 64.5rem !important;
+    height: 32.25rem !important
   }
 }
 
@@ -707,12 +708,13 @@ footer {
     margin: 2rem;
   }
   .section-4 img {
-    height: 30rem;
+    height: 10rem;
     margin-left: 0rem;
   }
 
   #classes-SPI {
-    height: 15rem !important;
+    height: 5rem !important;
+    width: 10rem !important;
   }
 }
 
@@ -888,7 +890,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 50rem;
+  width: 70rem;
 }
 
 .container-images .on {
@@ -922,11 +924,11 @@ footer {
   transform: rotate(180deg);
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1281px) {
   .container-slider {
     display: flex;
     width: 100%;
-    min-height: 75vh;
+    min-height: 65vh;
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
@@ -946,6 +948,13 @@ footer {
     gap: 0.5rem;
     position: relative;
     transform: translateY(0rem); /* Ajuste o valor conforme necessário */
+  }
+  .container-images {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50rem;
   }
 }
 
